@@ -1,0 +1,6 @@
+{
+    "webhook_url": "your_dc_webhook",
+    "api_key_id": "your_api_key_id",
+    "api_secret_key": "your_api_secret_key"
+  }
+  
